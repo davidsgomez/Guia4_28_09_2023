@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Documentos\Programación II\Guia4_FuncionesCadena\Guia4_Ejercicio1\Guia4_Ejercicio1\bin\Debug\net6.0\Guia4_Ejercicio1.exe
+C:\Users\david\OneDrive\Documentos\Programación II\Guia4_FuncionesCadena\Guia4_Ejercicio1\Guia4_Ejercicio1\bin\Debug\net6.0\Guia4_Ejercicio1.deps.json
+C:\Users\david\OneDrive\Documentos\Programación II\Guia4_FuncionesCadena\Guia4_Ejercicio1\Guia4_Ejercicio1\bin\Debug\net6.0\Guia4_Ejercicio1.runtimeconfig.json
+C:\Users\david\OneDrive\Documentos\Programación II\Guia4_FuncionesCadena\Guia4_Ejercicio1\Guia4_Ejercicio1\bin\Debug\net6.0\Guia4_Ejercicio1.dll
+C:\Users\david\OneDrive\Documentos\Programación II\Guia4_FuncionesCadena\Guia4_Ejercicio1\Guia4_Ejercicio1\bin\Debug\net6.0\Guia4_Ejercicio1.pdb
+C:\Users\david\OneDrive\Documentos\Programación II\Guia4_FuncionesCadena\Guia4_Ejercicio1\Guia4_Ejercicio1\obj\Debug\net6.0\Guia4_Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documentos\Programación II\Guia4_FuncionesCadena\Guia4_Ejercicio1\Guia4_Ejercicio1\obj\Debug\net6.0\Guia4_Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documentos\Programación II\Guia4_FuncionesCadena\Guia4_Ejercicio1\Guia4_Ejercicio1\obj\Debug\net6.0\Guia4_Ejercicio1.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documentos\Programación II\Guia4_FuncionesCadena\Guia4_Ejercicio1\Guia4_Ejercicio1\obj\Debug\net6.0\Guia4_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documentos\Programación II\Guia4_FuncionesCadena\Guia4_Ejercicio1\Guia4_Ejercicio1\obj\Debug\net6.0\Guia4_Ejercicio1.dll
+C:\Users\david\OneDrive\Documentos\Programación II\Guia4_FuncionesCadena\Guia4_Ejercicio1\Guia4_Ejercicio1\obj\Debug\net6.0\refint\Guia4_Ejercicio1.dll
+C:\Users\david\OneDrive\Documentos\Programación II\Guia4_FuncionesCadena\Guia4_Ejercicio1\Guia4_Ejercicio1\obj\Debug\net6.0\Guia4_Ejercicio1.pdb
+C:\Users\david\OneDrive\Documentos\Programación II\Guia4_FuncionesCadena\Guia4_Ejercicio1\Guia4_Ejercicio1\obj\Debug\net6.0\Guia4_Ejercicio1.genruntimeconfig.cache
+C:\Users\david\OneDrive\Documentos\Programación II\Guia4_FuncionesCadena\Guia4_Ejercicio1\Guia4_Ejercicio1\obj\Debug\net6.0\ref\Guia4_Ejercicio1.dll
